@@ -1,0 +1,24 @@
+C:\Users\User\source\repos\SandreyPersonBase\SandreyPersonBase\obj\Debug\SandreyPersonBase.csprojAssemblyReference.cache
+C:\Users\User\source\repos\SandreyPersonBase\SandreyPersonBase\obj\Debug\SandreyPersonBase.Form1.resources
+C:\Users\User\source\repos\SandreyPersonBase\SandreyPersonBase\obj\Debug\SandreyPersonBase.Properties.Resources.resources
+C:\Users\User\source\repos\SandreyPersonBase\SandreyPersonBase\obj\Debug\SandreyPersonBase.csproj.GenerateResource.cache
+C:\Users\User\source\repos\SandreyPersonBase\SandreyPersonBase\obj\Debug\SandreyPersonBase.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SandreyPersonBase\SandreyPersonBase\bin\Debug\DatabaseMain.mdf
+C:\Users\User\source\repos\SandreyPersonBase\SandreyPersonBase\bin\Debug\DatabaseMain_log.ldf
+C:\Users\User\source\repos\SandreyPersonBase\SandreyPersonBase\bin\Debug\SandreyPersonBase.exe.config
+C:\Users\User\source\repos\SandreyPersonBase\SandreyPersonBase\bin\Debug\SandreyPersonBase.exe
+C:\Users\User\source\repos\SandreyPersonBase\SandreyPersonBase\bin\Debug\SandreyPersonBase.pdb
+C:\Users\User\source\repos\SandreyPersonBase\SandreyPersonBase\obj\Debug\SandreyPersonBase.exe
+C:\Users\User\source\repos\SandreyPersonBase\SandreyPersonBase\obj\Debug\SandreyPersonBase.pdb
+C:\Users\rodrigez\Desktop\ULEARN ME\проекты с прошлого компа\repos\SandreyPersonBase\SandreyPersonBase\bin\Debug\DatabaseMain.mdf
+C:\Users\rodrigez\Desktop\ULEARN ME\проекты с прошлого компа\repos\SandreyPersonBase\SandreyPersonBase\bin\Debug\DatabaseMain_log.ldf
+C:\Users\rodrigez\Desktop\ULEARN ME\проекты с прошлого компа\repos\SandreyPersonBase\SandreyPersonBase\bin\Debug\SandreyPersonBase.exe.config
+C:\Users\rodrigez\Desktop\ULEARN ME\проекты с прошлого компа\repos\SandreyPersonBase\SandreyPersonBase\bin\Debug\SandreyPersonBase.exe
+C:\Users\rodrigez\Desktop\ULEARN ME\проекты с прошлого компа\repos\SandreyPersonBase\SandreyPersonBase\bin\Debug\SandreyPersonBase.pdb
+C:\Users\rodrigez\Desktop\ULEARN ME\проекты с прошлого компа\repos\SandreyPersonBase\SandreyPersonBase\obj\Debug\SandreyPersonBase.csprojAssemblyReference.cache
+C:\Users\rodrigez\Desktop\ULEARN ME\проекты с прошлого компа\repos\SandreyPersonBase\SandreyPersonBase\obj\Debug\SandreyPersonBase.Form1.resources
+C:\Users\rodrigez\Desktop\ULEARN ME\проекты с прошлого компа\repos\SandreyPersonBase\SandreyPersonBase\obj\Debug\SandreyPersonBase.Properties.Resources.resources
+C:\Users\rodrigez\Desktop\ULEARN ME\проекты с прошлого компа\repos\SandreyPersonBase\SandreyPersonBase\obj\Debug\SandreyPersonBase.csproj.GenerateResource.cache
+C:\Users\rodrigez\Desktop\ULEARN ME\проекты с прошлого компа\repos\SandreyPersonBase\SandreyPersonBase\obj\Debug\SandreyPersonBase.csproj.CoreCompileInputs.cache
+C:\Users\rodrigez\Desktop\ULEARN ME\проекты с прошлого компа\repos\SandreyPersonBase\SandreyPersonBase\obj\Debug\SandreyPersonBase.exe
+C:\Users\rodrigez\Desktop\ULEARN ME\проекты с прошлого компа\repos\SandreyPersonBase\SandreyPersonBase\obj\Debug\SandreyPersonBase.pdb
